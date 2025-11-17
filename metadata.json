@@ -1,0 +1,5 @@
+{
+  "name": "Meeting Minutes Analyzer",
+  "description": "An intelligent application that summarizes meeting minutes and extracts actionable items using the Gemini API. Users can paste text or upload a file to receive a concise summary and a structured list of tasks, including who is responsible, what needs to be done, and by when.",
+  "requestFramePermissions": []
+}
